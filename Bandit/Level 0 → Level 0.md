@@ -1,4 +1,4 @@
-# Level 0
+# Level 0 → Level 0
 
 ```bash
 [liveuser@blackarch]-[~]

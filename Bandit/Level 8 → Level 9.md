@@ -8,3 +8,8 @@
 ```bash
 bandit8@bandit:~$ sort data.txt | uniq -u
 ```
+---
+
+**`sort`** — Arranges the lines of a text file
+
+**`uniq`** — Filters out or reports duplicate lines

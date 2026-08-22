@@ -32,3 +32,6 @@ XxXxxXxXxxxXxXxXxXxXxXxXx
 
 bandit14@bandit:~$ cat /etc/bandit_pass/bandit14
 ```
+---
+
+**`chmod`** — Changing **permissions** **(user/owner)**, **(group)**, **(others)**

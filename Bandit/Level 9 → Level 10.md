@@ -8,3 +8,6 @@
 ```bash
 bandit9@bandit:~$ strings data.txt | grep '=’
 ```
+---
+
+**`strings`** — Extracts and prints sequence-formatted, printable characters from any given file

@@ -7,3 +7,6 @@
 ```bash
 bandit7@bandit:~$ grep millionth data.txt
 ```
+---
+
+**`grep`** — Searches for specific words, phrases, or patterns in text files

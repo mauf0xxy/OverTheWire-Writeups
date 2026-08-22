@@ -16,7 +16,6 @@ XxXxxXxXxxxXxXxXxXxXxXxXx
 
 ```bash
 [liveuser@blackarch]-[~]
-
 >>> echo "----BEGIN RSA PRIVATE KEY-----
 XxXxxXxXxxxXxXxXxXxXxXxXx
 -----END RSA PRIVATE KEY-----" > private.key

@@ -7,3 +7,6 @@
 ```bash
 bandit11@bandit:~$ cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 ```
+---
+
+**`tr`** — (**Translate**) T**ranslate, delete, and squeeze repeated characters** from standard input and write the result to standard output

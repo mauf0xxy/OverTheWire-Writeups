@@ -29,3 +29,16 @@ bunzip2 data.bz2
 mv data.bin data.tar
 tar -xf data.tar
 ```
+---
+
+**`xxd -r`** — **Reverse Hex Dump** converts a plaintext hexadecimal dump back into its original binary file format
+
+**`mv`** — **Move** files from one directory to another, or **renames** them
+
+**`file`** — **Identify File Type**
+
+**`gunzip`** — **Decompress Gzip** (usually ending in **`.gz`**)
+
+**`bunzip2`** — **Decompress Bzip2** (usually ending in **`.bz2`**)
+
+**`tar -xf`** — **Extract Tarball,** The **`-x`** flag tells it to extract, and **`-f`** specifies the file

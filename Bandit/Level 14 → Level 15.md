@@ -21,3 +21,8 @@ Nmap done: 1 IP address (1 host up) scanned in 0.04 seconds
 bandit14@bandit:~$ echo "Bandit14’s PasswordPasswords" | nc localhost 30000
 Correct!
 ```
+---
+
+**`nmap`** — (**Network Mapper**) network discovery and security auditing
+
+**`nc`** — (**Netcat**) reads and writes raw data across **TCP** and **UDP** connections

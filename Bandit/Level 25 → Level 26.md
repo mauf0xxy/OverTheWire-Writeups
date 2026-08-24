@@ -44,5 +44,3 @@ usr/bin/showtext
 
 bandit26@bandit:~$ cat /etc/bandit_pass/bandit26
 ```
-
-[def]: mauf0xxy/OverTheWire-Writeups/Bandit/images/window_terminal_size.png

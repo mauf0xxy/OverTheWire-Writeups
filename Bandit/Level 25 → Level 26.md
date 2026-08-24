@@ -29,7 +29,7 @@ exit 0
 
 - `more` is a file perusal filter for crt viewing, the idea here is by resizing the terminal like this
 
-![More_Command](mauf0xxy/OverTheWire-Writeups/Bandit/images/window_terminal_size.png)
+![More_Command](Bandit/images/window_terminal_size.png)
 
 - by pressing **[ v ]** it will switch to **VISUAL mode,** allowing to run commands
 
@@ -44,3 +44,5 @@ usr/bin/showtext
 
 bandit26@bandit:~$ cat /etc/bandit_pass/bandit26
 ```
+
+[def]: mauf0xxy/OverTheWire-Writeups/Bandit/images/window_terminal_size.png
